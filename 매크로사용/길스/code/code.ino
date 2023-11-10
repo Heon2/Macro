@@ -102,7 +102,7 @@ void loop()
   ///////////////////////////////////////////////////////////
   
   CHECK_STOP();
-  delay_fucntion(50); //50분 delay
+  delay_fucntion(55); //55분 delay
   macro_code();
 
 
